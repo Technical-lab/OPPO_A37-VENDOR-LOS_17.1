@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/vendor/bin/imscmservice:vendor/bin/imscmservice \
     vendor/wingtech/wt88047/proprietary/vendor/bin/imsdatadaemon:vendor/bin/imsdatadaemon \
     vendor/wingtech/wt88047/proprietary/vendor/bin/imsqmidaemon:vendor/bin/imsqmidaemon \
+    vendor/wingtech/wt88047/proprietary/vendor/bin/ims_rtp_daemon:vendor/bin/ims_rtp_daemon \
     vendor/wingtech/wt88047/proprietary/vendor/bin/irsc_util:vendor/bin/irsc_util \
     vendor/wingtech/wt88047/proprietary/vendor/bin/mm-pp-daemon:vendor/bin/mm-pp-daemon \
     vendor/wingtech/wt88047/proprietary/vendor/bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon \

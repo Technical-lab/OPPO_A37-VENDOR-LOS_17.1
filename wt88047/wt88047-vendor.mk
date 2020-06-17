@@ -164,6 +164,9 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsrcs.so:vendor/lib/lib-imsrcs.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsSDP.so:vendor/lib/lib-imsSDP.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imss.so:vendor/lib/lib-imss.so \
+    vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsvideocodec.so:vendor/lib/lib-imsvideocodec.so \
+    vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsvtextutils.so:vendor/lib/lib-imsvtextutils.so \
+    vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsvtutils.so:vendor/lib/lib-imsvtutils.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsvt.so:vendor/lib/lib-imsvt.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/lib-imsxml.so:vendor/lib/lib-imsxml.so \
     vendor/wingtech/wt88047/proprietary/vendor/lib/libizat_core.so:vendor/lib/libizat_core.so \

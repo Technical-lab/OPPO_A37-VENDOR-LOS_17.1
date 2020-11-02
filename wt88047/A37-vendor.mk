@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt
 
 PRODUCT_COPY_FILES += \
+    vendor/oppo/A37/proprietary/vendor/lib/soundfx/libqcvirt.so:vendor/lib/soundfx/libqcvirt.so \
     vendor/oppo/A37/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/oppo/A37/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/oppo/A37/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
@@ -259,9 +260,8 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
     vendor/oppo/A37/proprietary/vendor/lib/libmmjpeg_interface.so:system/vendor/lib/libmmjpeg_interface.so \
     vendor/oppo/A37/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
-    vendor/oppo/A37/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so \ 
-    vendor/oppo/A37/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
-
+    vendor/oppo/A37/proprietary/vendor/lib/hw/camera.vendor.msm8916.so:system/vendor/lib/hw/camera.vendor.msm8916.so 
+    
 PRODUCT_PACKAGES += \
     ims \
     imscmlibrary \

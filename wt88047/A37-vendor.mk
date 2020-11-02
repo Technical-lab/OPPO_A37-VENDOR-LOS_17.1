@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt
 
 PRODUCT_COPY_FILES += \
-    vendor/oppo/A37/proprietary/vendor/lib/soundfx/libqcvirt.so:vendor/lib/soundfx/libqcvirt.so \
+    vendor/oppo/A37/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/oppo/A37/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/oppo/A37/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/oppo/A37/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
